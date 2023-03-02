@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "entryPoint": "./src/entry/Entry.jsx",
+    "name": "MouseDown",
+    "slug": "MouseDown",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/img/appIcon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./src/assets/img/gradientSplash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#3b1280"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/img/mickey-disney-castle.png",
+        "backgroundImage": "./src/assets/img/appIcon.png",
+        "backgroundColor": "#3b1280"
+      },
+      "package": "com.nazarja.mousedown",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "559913f8-fa86-40e7-90af-91b6944fb871"
+      }
+    }
+  }
+}

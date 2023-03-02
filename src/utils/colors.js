@@ -1,0 +1,20 @@
+
+export default Object.freeze({
+    white: '#f6f6f6',
+    offWhite: '#e6e6e6',
+    fadedWhite: 'rgba(255,255,255,0.07)',
+    black: '#262626',
+    lighterBlack: '#363636',
+    purple: '#3b1280',
+    pink: '#c82c6a',
+    blue: '#1e3bd7',
+    lightBlue: '#005bff',
+    confettiBlue: 'rgba(63, 154, 207, .7)',
+    confettiGreen: 'rgba(54, 185, 79, .7)',
+    confettiOrange: 'rgba(248, 64, 5, .7)',
+    confettiYellow: 'rgba(199,177,61, .7)',
+    confettiPink: 'rgba(200,44, 106, .7)',
+    confettiPurple: 'rgba(100, 79, 177, .7)',
+    confettiRed: 'rgba(222, 18, 52, .7)',
+    shadow: '#171717',
+});
